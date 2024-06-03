@@ -1,4 +1,4 @@
-# 👨‍💼 Prem Kumar Mistry
+# 👨‍💼 Premkumar Mistry
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/premmistry/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-gray?logo=github)](https://github.com/premkumarmistry)
